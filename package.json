@@ -16,5 +16,21 @@
     "mocha": "^10.2.0",
     "mocha-multi": "^1.1.3",
     "whatwg-fetch": "^3.6.20"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "eslint": "^10.2.0",
+    "jest": "^30.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaden-Afrika/lab-async-await.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Jaden-Afrika/lab-async-await/issues"
+  },
+  "homepage": "https://github.com/Jaden-Afrika/lab-async-await#readme"
 }
