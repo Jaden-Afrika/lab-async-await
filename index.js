@@ -6,7 +6,7 @@ posts.forEach(post => {
     const h1 = document.createElement('h1'); 
     const p = document.createElement('p'); 
 
-    h1,textContent = post.title;
+    h1.textContent = post.title;
     p.textContent = post.body;
 
     li.appendChild(h1);
